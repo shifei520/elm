@@ -1,0 +1,103 @@
+@font-face {
+  font-family: 'iconfont'; /* Project id  */
+  src: url('iconfont-jiantou.ttf?t=1622342227122') format('truetype');
+}
+@font-face {
+  font-family: 'iconfont'; /* Project id  */
+  src: url('iconfont-right.ttf?t=1622360772829') format('truetype');
+}
+@font-face {
+  font-family: 'iconfont'; /* Project id  */
+  src: url('iconfont-fangdajing.ttf?t=1622426832072') format('truetype');
+}
+@font-face {
+  font-family: 'iconfont'; /* Project id  */
+  src: url('iconfont-store.ttf?t=1622447393190') format('truetype');
+}
+@font-face {
+  font-family: 'iconfont'; /* Project id  */
+  src: url('iconfont-bottomBar.ttf?t=1622621296024') format('truetype');
+}
+@font-face {
+  font-family: 'iconfont'; /* Project id  */
+  src: url('iconfont-chahao.ttf?t=1622709776247') format('truetype');
+}
+@font-face {
+  font-family: 'iconfont'; /* Project id  */
+  src: url('iconfont-sort.ttf?t=1623030187529') format('truetype');
+}
+@font-face {
+  font-family: 'iconfont'; /* Project id  */
+  src: url('iconfont-fengniao.ttf?t=1623048267183') format('truetype');
+}
+@font-face {
+  font-family: 'iconfont'; /* Project id  */
+  src: url('iconfont-yes.ttf?t=1623077988860') format('truetype');
+}
+.iconfont {
+  font-family: 'iconfont' !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-jiantou:before {
+  content: '\e61f';
+}
+.icon-jiantou:before {
+  content: '\e7ef';
+}
+.icon-fangdajing:before {
+  content: '\e662';
+}
+.icon-tubiaolunkuo-:before {
+  content: '\e616';
+}
+.icon-tubiaozhizuomobanyihuifu-:before {
+  content: '\e68f';
+}
+
+.icon-wode:before {
+  content: '\e642';
+}
+
+.icon-dingdan:before {
+  content: '\e61d';
+}
+
+.icon-elment:before {
+  content: '\e8ca';
+}
+.icon-chahao:before {
+  content: '\e60e';
+}
+.icon-position-o:before {
+  content: '\e61a';
+}
+
+.icon-qian:before {
+  content: '\e640';
+}
+
+.icon-08:before {
+  content: '\e610';
+}
+
+.icon-paixu:before {
+  content: '\e624';
+}
+
+.icon-pingfen1:before {
+  content: '\e61b';
+}
+
+.icon-time:before {
+  content: '\e62b';
+}
+.icon-fengniao:before {
+  content: '\e501';
+}
+.icon-correct-1-mini:before {
+  content: '\e62a';
+}
